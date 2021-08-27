@@ -1,0 +1,66 @@
+* {
+    -moz-box-sizing: border-box;
+         box-sizing: border-box;
+}
+
+body {
+    background: lightyellow;
+    margin: 2em;
+    padding-bottom: 200px;
+}
+
+#cat-img {
+    height:100px;
+}
+#cat-list li{
+  cursor: pointer;
+}
+button {
+    margin-top:20px;
+}
+label {
+  display: inline-block;
+    width: 150px;
+    text-align: right;
+}
+
+#container div{
+  margin-bottom: 4px;
+}
+#container{
+  display:none;
+}
+
+*,
+*:before,
+*:after {box-sizing: border-box;}
+
+.new-note-form {
+    margin-bottom: 15px;
+}
+.new-note-content {
+    width:100%;
+    display: block;
+    font-size: 1.3em;
+}
+
+.notes {
+    list-style-type: none;
+    margin:0;
+    padding: 0;
+}
+.note {
+    display: inline-block;
+    width: 250px;
+    margin-right: 20px;
+    margin-bottom: 20px;
+    padding:15px 10px;
+    list-style-type: none;
+    background-color: #cde;
+}
+
+.note-date {
+    font-size:0.9em;
+    margin-bottom: 10px;
+    display: block;
+}
