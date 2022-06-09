@@ -1,3 +1,4 @@
-# NoteDate
-Write notes in the input field and hit enter. It saves notes into localStorage of browser. Notes created with date time show up as a list. 
-Visit https://wallacerepo.github.io/NoteDate/
+# [Write a note on js app](https://wallacerepo.github.io/NoteDate/) Udacity course assignment
+Instruction: write an note. The notes are saved in localStorage of browser. Note lists are created with date/time. 
+Delete button deletes all notes created from localstorage.
+
